@@ -30,20 +30,22 @@
     [Deep setFont:[UIFont fontWithName:@"Villa" size:21]];
     // Init deeps
     [Deep setText:[NSString stringWithFormat:@"%dm", currentDeeps]];
+    [Deep setTextColor:[UIColor orangeColor]];
+    [Scores setTextColor:[UIColor orangeColor]];
     
     //[self generateFish];
-
-//    Wave move
+    
+    //    Wave move
     waveMoveLeft = YES;
     [NSTimer scheduledTimerWithTimeInterval:0.05 target:self selector:@selector(moverWave) userInfo:nil repeats:YES];
-//    [self performSelector:@selector(generateFish) withObject:nil afterDelay:1];
+    //    [self performSelector:@selector(generateFish) withObject:nil afterDelay:1];
     
     [self.view bringSubviewToFront:Sky];
     [self.view bringSubviewToFront:Ship];
     [self.view bringSubviewToFront:Wave];
     [self.view bringSubviewToFront:Scores];
     [self.view bringSubviewToFront:Deep];
-//    [self.view removeConstraints:self.view.constraints];
+    //    [self.view removeConstraints:self.view.constraints];
     
     currentStyle = 1;
     gameRunning = NO;
@@ -74,6 +76,7 @@
     [Deep setText:[NSString stringWithFormat:@"%dm", currentDeeps]];
     for (id key in fishesArray) {
         FISH *fish = [fishesArray objectForKey:key];
+        [fish.image removeFromSuperview];
         fish.image.image = nil;
     }
     fishesArray = [[NSMutableDictionary alloc] init];
@@ -92,16 +95,25 @@
             case 0:
                 fishesImage = [[NSMutableArray alloc]initWithObjects:@"style2_1.png", @"dstyle2_2.png", @"style2_3.png", @"style2_4.png", @"style2_5.png", @"style2_6.png", @"style2_7.png", @"style2_8.png", @"style2_9.png", @"style2_10.png", @"style2_11.png", @"style2_12.png", @"style2_13.png", @"style2_14.png", @"style2_15.png", @"style2_16.png", nil];
                 Ocean.image = [UIImage imageNamed:@"ocean2.png"];
+                Sky.image = [UIImage imageNamed:@"sky2.png"];
+                [Deep setTextColor:[UIColor orangeColor]];
+                [Scores setTextColor:[UIColor orangeColor]];
                 currentStyle=1;
                 break;
             case 1:
                 fishesImage = [[NSMutableArray alloc]initWithObjects:@"fish1.png", @"fish2.png", @"fish3.png", @"fish4.png", @"fish5.png", @"fish6.png", @"fish7.png", @"fish8.png", @"fish9.png", @"fish10.png", @"fish11.png", @"fish12.png", @"fish13.png", @"fish14.png", @"fish15.png", @"fish16.png", @"fish17.png", @"fish18.png", nil];
                 Ocean.image = [UIImage imageNamed:@"ocean1.png"];
+                Sky.image = [UIImage imageNamed:@"sky1.png"];
                 currentStyle=2;
+                [Deep setTextColor:[UIColor blackColor]];
+                [Scores setTextColor:[UIColor blackColor]];
                 break;
             case 2:
                 fishesImage = [[NSMutableArray alloc]initWithObjects:@"style3_1.png", @"dstyle3_2.png", @"style3_3.png", @"style3_4.png", @"style3_5.png", @"style3_6.png", @"style3_7.png", @"style3_8.png", @"style3_9.png", nil];
                 Ocean.image = [UIImage imageNamed:@"ocean3.png"];
+                Sky.image = [UIImage imageNamed:@"sky3.png"];
+                [Deep setTextColor:[UIColor whiteColor]];
+                [Scores setTextColor:[UIColor whiteColor]];
                 currentStyle=0;
                 break;
             default:
@@ -124,7 +136,7 @@
         [Deep setText:[NSString stringWithFormat:@"%d/%dm", currentDeeps, deeps]];
         
         // Start generate fishes
-        timerFishesGenerator = [NSTimer scheduledTimerWithTimeInterval:0.75 target:self selector:@selector(generateFishes) userInfo:nil repeats:YES];
+        timerFishesGenerator = [NSTimer scheduledTimerWithTimeInterval:0.9 target:self selector:@selector(generateFishes) userInfo:nil repeats:YES];
         
         // start croll backgroud
         timerScrollBackground = [NSTimer scheduledTimerWithTimeInterval:0.015 target:self selector:@selector(moverBackground) userInfo:nil repeats:YES];
@@ -222,6 +234,7 @@
 
 -(void)generateFishes{
     @try {
+        [self generateFish];
         [self generateFish];
         [self generateFish];
     }
@@ -476,7 +489,7 @@
                 newHoodY = touchLocation.y;
             }
         }
-
+        
     }
     @catch (NSException *exception) {
         NSLog(@"%@", exception.reason);

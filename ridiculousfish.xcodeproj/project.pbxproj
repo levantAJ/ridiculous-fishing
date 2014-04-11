@@ -57,6 +57,9 @@
 		211D151318E8202500109BD2 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 211D151118E8202500109BD2 /* InfoPlist.strings */; };
 		211D151518E8202500109BD2 /* ridiculousfishTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 211D151418E8202500109BD2 /* ridiculousfishTests.m */; };
 		211D155918E8405300109BD2 /* FISH.m in Sources */ = {isa = PBXBuildFile; fileRef = 211D155818E8405300109BD2 /* FISH.m */; };
+		212309F118F844C700B9982C /* sky1.png in Resources */ = {isa = PBXBuildFile; fileRef = 212309F018F844C700B9982C /* sky1.png */; };
+		212309F318F8457C00B9982C /* sky2.png in Resources */ = {isa = PBXBuildFile; fileRef = 212309F218F8457C00B9982C /* sky2.png */; };
+		212309F918F84EFF00B9982C /* sky3.png in Resources */ = {isa = PBXBuildFile; fileRef = 212309F818F84EFF00B9982C /* sky3.png */; };
 		21673F9518F2ED4600FCE755 /* ship.png in Resources */ = {isa = PBXBuildFile; fileRef = 21673F9418F2ED4600FCE755 /* ship.png */; };
 		21673F9718F2F01600FCE755 /* ocean2.png in Resources */ = {isa = PBXBuildFile; fileRef = 21673F9618F2F01600FCE755 /* ocean2.png */; };
 		21673F9B18F2F71E00FCE755 /* ocean1.png in Resources */ = {isa = PBXBuildFile; fileRef = 21673F9A18F2F71E00FCE755 /* ocean1.png */; };
@@ -72,7 +75,6 @@
 		21673FB018F3096C00FCE755 /* style3_9.png in Resources */ = {isa = PBXBuildFile; fileRef = 21673FA618F3096C00FCE755 /* style3_9.png */; };
 		2191352E18EFBB610009A705 /* Villa.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 211D156518E8828B00109BD2 /* Villa.ttf */; };
 		2191354918EFD4650009A705 /* blood.png in Resources */ = {isa = PBXBuildFile; fileRef = 2191353318EFD4650009A705 /* blood.png */; };
-		2191356118EFEA2E0009A705 /* sky.png in Resources */ = {isa = PBXBuildFile; fileRef = 2191355F18EFEA2E0009A705 /* sky.png */; };
 		2191356318EFFC100009A705 /* wave.png in Resources */ = {isa = PBXBuildFile; fileRef = 2191356218EFFC100009A705 /* wave.png */; };
 		21B9315318F1258A0050A5FF /* RNGridMenu.m in Sources */ = {isa = PBXBuildFile; fileRef = 21B9315218F1258A0050A5FF /* RNGridMenu.m */; };
 		21F6BF6518F193870050C58C /* facebook.png in Resources */ = {isa = PBXBuildFile; fileRef = 21F6BF6318F193870050C58C /* facebook.png */; };
@@ -149,6 +151,9 @@
 		211D155718E8405300109BD2 /* FISH.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FISH.h; sourceTree = "<group>"; };
 		211D155818E8405300109BD2 /* FISH.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FISH.m; sourceTree = "<group>"; };
 		211D156518E8828B00109BD2 /* Villa.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Villa.ttf; path = ../Villa.ttf; sourceTree = "<group>"; };
+		212309F018F844C700B9982C /* sky1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky1.png; sourceTree = "<group>"; };
+		212309F218F8457C00B9982C /* sky2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky2.png; sourceTree = "<group>"; };
+		212309F818F84EFF00B9982C /* sky3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky3.png; sourceTree = "<group>"; };
 		21673F9418F2ED4600FCE755 /* ship.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ship.png; sourceTree = "<group>"; };
 		21673F9618F2F01600FCE755 /* ocean2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ocean2.png; sourceTree = "<group>"; };
 		21673F9A18F2F71E00FCE755 /* ocean1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ocean1.png; sourceTree = "<group>"; };
@@ -163,7 +168,6 @@
 		21673FA518F3096C00FCE755 /* style3_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = style3_8.png; sourceTree = "<group>"; };
 		21673FA618F3096C00FCE755 /* style3_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = style3_9.png; sourceTree = "<group>"; };
 		2191353318EFD4650009A705 /* blood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = blood.png; sourceTree = "<group>"; };
-		2191355F18EFEA2E0009A705 /* sky.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sky.png; sourceTree = "<group>"; };
 		2191356218EFFC100009A705 /* wave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wave.png; sourceTree = "<group>"; };
 		21B9315118F1258A0050A5FF /* RNGridMenu.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNGridMenu.h; sourceTree = "<group>"; };
 		21B9315218F1258A0050A5FF /* RNGridMenu.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNGridMenu.m; sourceTree = "<group>"; };
@@ -200,6 +204,7 @@
 		2100377918F2CBDF00C236D4 /* style1 */ = {
 			isa = PBXGroup;
 			children = (
+				212309F018F844C700B9982C /* sky1.png */,
 				21673F9A18F2F71E00FCE755 /* ocean1.png */,
 				2100377A18F2CBDF00C236D4 /* fish1.png */,
 				2100377B18F2CBDF00C236D4 /* fish10.png */,
@@ -226,6 +231,7 @@
 		2100379E18F2CC9C00C236D4 /* style2 */ = {
 			isa = PBXGroup;
 			children = (
+				212309F218F8457C00B9982C /* sky2.png */,
 				21673F9618F2F01600FCE755 /* ocean2.png */,
 				2100379F18F2CC9C00C236D4 /* style2_1.png */,
 				210037A018F2CC9C00C236D4 /* style2_10.png */,
@@ -328,6 +334,7 @@
 		21673F9C18F3096C00FCE755 /* style3 */ = {
 			isa = PBXGroup;
 			children = (
+				212309F818F84EFF00B9982C /* sky3.png */,
 				21673F9D18F3096C00FCE755 /* ocean3.png */,
 				21673F9E18F3096C00FCE755 /* style3_1.png */,
 				21673F9F18F3096C00FCE755 /* style3_2.png */,
@@ -355,7 +362,6 @@
 				21F6BF6318F193870050C58C /* facebook.png */,
 				21F6BF6418F193870050C58C /* twitter.png */,
 				2191356218EFFC100009A705 /* wave.png */,
-				2191355F18EFEA2E0009A705 /* sky.png */,
 				21673F9418F2ED4600FCE755 /* ship.png */,
 				2191353318EFD4650009A705 /* blood.png */,
 			);
@@ -446,6 +452,7 @@
 				21673F9718F2F01600FCE755 /* ocean2.png in Resources */,
 				2100379218F2CBDF00C236D4 /* fish15.png in Resources */,
 				2191356318EFFC100009A705 /* wave.png in Resources */,
+				212309F118F844C700B9982C /* sky1.png in Resources */,
 				2100379918F2CBDF00C236D4 /* fish5.png in Resources */,
 				210037B318F2CC9C00C236D4 /* style2_14.png in Resources */,
 				21673FAC18F3096C00FCE755 /* style3_5.png in Resources */,
@@ -453,7 +460,6 @@
 				2191352E18EFBB610009A705 /* Villa.ttf in Resources */,
 				210037AF18F2CC9C00C236D4 /* style2_10.png in Resources */,
 				2100378C18F2CBDF00C236D4 /* fish1.png in Resources */,
-				2191356118EFEA2E0009A705 /* sky.png in Resources */,
 				21673FAE18F3096C00FCE755 /* style3_7.png in Resources */,
 				2191354918EFD4650009A705 /* blood.png in Resources */,
 				2100378F18F2CBDF00C236D4 /* fish12.png in Resources */,
@@ -479,6 +485,7 @@
 				2100379B18F2CBDF00C236D4 /* fish7.png in Resources */,
 				2100379418F2CBDF00C236D4 /* fish17.png in Resources */,
 				2100379818F2CBDF00C236D4 /* fish4.png in Resources */,
+				212309F918F84EFF00B9982C /* sky3.png in Resources */,
 				21673FAD18F3096C00FCE755 /* style3_6.png in Resources */,
 				210037B618F2CC9C00C236D4 /* style2_3.png in Resources */,
 				2100377818F2C72700C236D4 /* switch.png in Resources */,
@@ -494,6 +501,7 @@
 				210037B418F2CC9C00C236D4 /* style2_15.png in Resources */,
 				210037B018F2CC9C00C236D4 /* style2_11.png in Resources */,
 				21673FAA18F3096C00FCE755 /* style3_3.png in Resources */,
+				212309F318F8457C00B9982C /* sky2.png in Resources */,
 				2100379D18F2CBDF00C236D4 /* fish9.png in Resources */,
 				21673FAB18F3096C00FCE755 /* style3_4.png in Resources */,
 				21673F9518F2ED4600FCE755 /* ship.png in Resources */,

@@ -12,8 +12,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="480"/>
                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                         <subviews>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sky.png" id="uHd-6d-pW6">
-                                <rect key="frame" x="-1" y="-416" width="321" height="656"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="sky2.png" id="uHd-6d-pW6">
+                                <rect key="frame" x="-1" y="-426" width="321" height="656"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                             </imageView>
                             <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="E6a-Ed-M46">
@@ -84,7 +84,7 @@
         <image name="hook.png" width="51" height="1400"/>
         <image name="ocean2.png" width="18" height="20"/>
         <image name="ship.png" width="100" height="90"/>
-        <image name="sky.png" width="398" height="656"/>
+        <image name="sky2.png" width="321" height="471"/>
         <image name="switch.png" width="71" height="80"/>
         <image name="wave.png" width="700" height="17"/>
     </resources>
