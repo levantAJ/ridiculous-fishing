@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1D73AB8-47A9-4309-B171-E3D1EBD7A188</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ridiculousfish</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6DE84AF7-1554-4A09-9533-C377A0D8197E</key>
+		<string>ssh://github.com/levantai/ridiculous-fishing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ridiculousfish.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6DE84AF7-1554-4A09-9533-C377A0D8197E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/levantai/ridiculous-fishing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6DE84AF7-1554-4A09-9533-C377A0D8197E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6DE84AF7-1554-4A09-9533-C377A0D8197E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ridiculousfish</string>
+		</dict>
+	</array>
+</dict>
+</plist>

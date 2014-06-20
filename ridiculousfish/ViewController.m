@@ -89,6 +89,7 @@
     fromFlight = NO;
     //Ship.enabled = YES;
 }
+
 -(IBAction)swichtStyle:(id)sender{
     if (gameRunning==NO) {
         switch (currentStyle) {

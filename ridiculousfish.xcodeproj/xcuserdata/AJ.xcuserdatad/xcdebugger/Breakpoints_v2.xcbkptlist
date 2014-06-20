@@ -79,36 +79,6 @@
             endingLineNumber = "495"
             landmarkName = "-touchesBegan:withEvent:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController touchesBegan:withEvent:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.388452"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "495"
-                  endingLineNumber = "495"
-                  offsetFromSymbolStart = "6266">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController touchesBegan:withEvent:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.388916"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "495"
-                  endingLineNumber = "495"
-                  offsetFromSymbolStart = "6410">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -125,36 +95,6 @@
             endingLineNumber = "525"
             landmarkName = "-touchesMoved:withEvent:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController touchesMoved:withEvent:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.392107"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "525"
-                  endingLineNumber = "525"
-                  offsetFromSymbolStart = "1860">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController touchesMoved:withEvent:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.393711"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "525"
-                  endingLineNumber = "525"
-                  offsetFromSymbolStart = "2004">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -171,36 +111,6 @@
             endingLineNumber = "444"
             landmarkName = "-gameOver"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController gameOver]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.395237"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "444"
-                  endingLineNumber = "444"
-                  offsetFromSymbolStart = "457">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController gameOver]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.395649"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "444"
-                  endingLineNumber = "444"
-                  offsetFromSymbolStart = "577">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -217,36 +127,6 @@
             endingLineNumber = "425"
             landmarkName = "-moverBackground"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController moverBackground]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.396074"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "425"
-                  endingLineNumber = "425"
-                  offsetFromSymbolStart = "6580">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController moverBackground]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.39648"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "425"
-                  endingLineNumber = "425"
-                  offsetFromSymbolStart = "6724">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -263,36 +143,6 @@
             endingLineNumber = "367"
             landmarkName = "-fishMover:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController fishMover:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.397966"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "367"
-                  endingLineNumber = "367"
-                  offsetFromSymbolStart = "6165">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController fishMover:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.398342"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "367"
-                  endingLineNumber = "367"
-                  offsetFromSymbolStart = "6309">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -309,36 +159,6 @@
             endingLineNumber = "322"
             landmarkName = "-fishAction:theOption:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController fishAction:theOption:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.398722"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "322"
-                  endingLineNumber = "322"
-                  offsetFromSymbolStart = "590">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController fishAction:theOption:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.399074"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "322"
-                  endingLineNumber = "322"
-                  offsetFromSymbolStart = "725">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -355,36 +175,6 @@
             endingLineNumber = "275"
             landmarkName = "-generateFish"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController generateFish]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.399483"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "275"
-                  endingLineNumber = "275"
-                  offsetFromSymbolStart = "3382">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController generateFish]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.399854"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "275"
-                  endingLineNumber = "275"
-                  offsetFromSymbolStart = "3526">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -401,36 +191,6 @@
             endingLineNumber = "242"
             landmarkName = "-generateFishes"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController generateFishes]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.401423"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "242"
-                  endingLineNumber = "242"
-                  offsetFromSymbolStart = "169">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController generateFishes]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.402016"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "242"
-                  endingLineNumber = "242"
-                  offsetFromSymbolStart = "289">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -463,50 +223,6 @@
             endingLineNumber = "231"
             landmarkName = "-checkBaited:theFish:theFishId:"
             landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController checkBaited:theFish:theFishId:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.402538"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "231"
-                  endingLineNumber = "231"
-                  offsetFromSymbolStart = "6042">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController checkBaited:theFish:theFishId:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.402911"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "231"
-                  endingLineNumber = "231"
-                  offsetFromSymbolStart = "6186">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "-[ViewController checkBaited:theFish:theFishId:]"
-                  moduleName = "ridiculousfish"
-                  urlString = "file:///Users/AJ/Dropbox/ridiculousfish/ridiculousfish/ViewController.m"
-                  timestampString = "418930542.404418"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "231"
-                  endingLineNumber = "231"
-                  offsetFromSymbolStart = "6202">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
