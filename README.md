@@ -3,6 +3,7 @@ ridiculous-fishing
 
 <div>The funny game for fishing and killing fish!</div>
 <div>It is a game I built base on Ridiculous Fishing game, it more simple!</div>
+<div>https://twitter.com/levantAJ/status/454675626469773312</div>
 
 ## Image
 ![Alt text](https://pbs.twimg.com/media/Bk9VEsQCUAE5FqE.png "Cover for Ridiculous Fishing")
