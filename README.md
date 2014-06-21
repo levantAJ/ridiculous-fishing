@@ -16,7 +16,7 @@ Full video for the game</br>
 Because I use UIKit like a application, so the game seem be lag.</br>
 In future I will improve it using GLKit or Swift
 
-## About
-https://twitter.com/levantAJ</br>
-https://www.facebook.com/levantai</br>
+## License
+<p>https://twitter.com/levantAJ</p>
+https://www.facebook.com/levantai<br>
 Copyright @levantAJ 2014
