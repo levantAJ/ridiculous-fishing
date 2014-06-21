@@ -18,5 +18,5 @@ In future I will improve it using GLKit or Swift
 
 ## License
 <p>https://twitter.com/levantAJ</p>
-https://www.facebook.com/levantai<br>
-Copyright @levantAJ 2014
+<p>https://www.facebook.com/levantai</p>
+<p>Copyright @levantAJ 2014</p>
