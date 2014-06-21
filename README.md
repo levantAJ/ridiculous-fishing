@@ -17,6 +17,6 @@ Because I use UIKit like a application, so the game seem be lag.</br>
 In future I will improve it using GLKit or Swift
 
 ## License
-<p>https://twitter.com/levantAJ</p>
-<p>https://www.facebook.com/levantai</p>
+<div>https://twitter.com/levantAJ</div>
+<div>https://www.facebook.com/levantai</div>
 <p>Copyright @levantAJ 2014</p>
